@@ -46,6 +46,9 @@ This is a WebSocket-based API for a multiplayer Tic Tac Toe game built using [Kt
 2. Connect to the WebSocket `/play` endpoint using a WebSocket client or frontend.
 3. Players will automatically be assigned as 'X' or 'O' and can start playing.
 
+## Kotlin Tic-Tac-Toe App
+
+In addition to this API, I have developed a Kotlin-based Tic-Tac-Toe app that uses this WebSocket API for real-time gameplay. You can check out the app repository by [clicking here](https://github.com/tariqjamel/Ktor-TicTacToe-Game).
 
 ## Contributing
 
